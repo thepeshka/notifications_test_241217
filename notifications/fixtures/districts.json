@@ -1,0 +1,597 @@
+[
+    {
+      "model": "notifications.District",
+      "pk": 1,
+      "fields": {
+        "name": "Республика Адыгея (Адыгея)"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 2,
+      "fields": {
+        "name": "Республика Башкортостан"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 3,
+      "fields": {
+        "name": "Республика Бурятия"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 4,
+      "fields": {
+        "name": "Республика Алтай"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 5,
+      "fields": {
+        "name": "Республика Дагестан"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 6,
+      "fields": {
+        "name": "Республика Ингушетия"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 7,
+      "fields": {
+        "name": "Кабардино-Балкарская Республика"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 8,
+      "fields": {
+        "name": "Республика Калмыкия"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 9,
+      "fields": {
+        "name": "Карачаево-Черкесская Республика"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 10,
+      "fields": {
+        "name": "Республика Карелия"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 11,
+      "fields": {
+        "name": "Республика Коми"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 12,
+      "fields": {
+        "name": "Республика Марий Эл"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 13,
+      "fields": {
+        "name": "Республика Мордовия"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 14,
+      "fields": {
+        "name": "Республика Саха (Якутия)"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 15,
+      "fields": {
+        "name": "Республика Северная Осетия - Алания"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 16,
+      "fields": {
+        "name": "Республика Татарстан (Татарстан)"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 17,
+      "fields": {
+        "name": "Республика Тыва"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 18,
+      "fields": {
+        "name": "Удмуртская Республика"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 19,
+      "fields": {
+        "name": "Республика Хакасия"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 20,
+      "fields": {
+        "name": "Чеченская Республика"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 21,
+      "fields": {
+        "name": "Чувашская Республика - Чувашия"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 22,
+      "fields": {
+        "name": "Алтайский край"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 23,
+      "fields": {
+        "name": "Краснодарский край"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 24,
+      "fields": {
+        "name": "Красноярский край"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 25,
+      "fields": {
+        "name": "Приморский край"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 26,
+      "fields": {
+        "name": "Ставропольский край"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 27,
+      "fields": {
+        "name": "Хабаровский край"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 28,
+      "fields": {
+        "name": "Амурская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 29,
+      "fields": {
+        "name": "Архангельская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 30,
+      "fields": {
+        "name": "Астраханская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 31,
+      "fields": {
+        "name": "Белгородская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 32,
+      "fields": {
+        "name": "Брянская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 33,
+      "fields": {
+        "name": "Владимирская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 34,
+      "fields": {
+        "name": "Волгоградская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 35,
+      "fields": {
+        "name": "Вологодская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 36,
+      "fields": {
+        "name": "Воронежская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 37,
+      "fields": {
+        "name": "Ивановская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 38,
+      "fields": {
+        "name": "Иркутская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 39,
+      "fields": {
+        "name": "Калининградская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 40,
+      "fields": {
+        "name": "Калужская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 41,
+      "fields": {
+        "name": "Камчатский край"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 42,
+      "fields": {
+        "name": "Кемеровская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 43,
+      "fields": {
+        "name": "Кировская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 44,
+      "fields": {
+        "name": "Костромская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 45,
+      "fields": {
+        "name": "Курганская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 46,
+      "fields": {
+        "name": "Курская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 47,
+      "fields": {
+        "name": "Ленинградская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 48,
+      "fields": {
+        "name": "Липецкая область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 49,
+      "fields": {
+        "name": "Магаданская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 50,
+      "fields": {
+        "name": "Московская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 51,
+      "fields": {
+        "name": "Мурманская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 52,
+      "fields": {
+        "name": "Нижегородская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 53,
+      "fields": {
+        "name": "Новгородская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 54,
+      "fields": {
+        "name": "Новосибирская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 55,
+      "fields": {
+        "name": "Омская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 56,
+      "fields": {
+        "name": "Оренбургская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 57,
+      "fields": {
+        "name": "Орловская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 58,
+      "fields": {
+        "name": "Пензенская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 59,
+      "fields": {
+        "name": "Пермский край"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 60,
+      "fields": {
+        "name": "Псковская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 61,
+      "fields": {
+        "name": "Ростовская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 62,
+      "fields": {
+        "name": "Рязанская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 63,
+      "fields": {
+        "name": "Самарская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 64,
+      "fields": {
+        "name": "Саратовская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 65,
+      "fields": {
+        "name": "Сахалинская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 66,
+      "fields": {
+        "name": "Свердловская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 67,
+      "fields": {
+        "name": "Смоленская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 68,
+      "fields": {
+        "name": "Тамбовская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 69,
+      "fields": {
+        "name": "Тверская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 70,
+      "fields": {
+        "name": "Томская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 71,
+      "fields": {
+        "name": "Тульская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 72,
+      "fields": {
+        "name": "Тюменская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 73,
+      "fields": {
+        "name": "Ульяновская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 74,
+      "fields": {
+        "name": "Челябинская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 75,
+      "fields": {
+        "name": "Забайкальский край"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 76,
+      "fields": {
+        "name": "Ярославская область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 77,
+      "fields": {
+        "name": "г. Москва"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 78,
+      "fields": {
+        "name": "г. Санкт-Петербург"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 79,
+      "fields": {
+        "name": "Еврейская автономная область"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 80,
+      "fields": {
+        "name": "Республика Крым"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 81,
+      "fields": {
+        "name": "Ненецкий автономный округ"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 82,
+      "fields": {
+        "name": "Ханты-Мансийский автономный округ - Югра"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 83,
+      "fields": {
+        "name": "Чукотский автономный округ"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 84,
+      "fields": {
+        "name": "Ямало-Ненецкий автономный округ"
+      }
+    },
+    {
+      "model": "notifications.District",
+      "pk": 85,
+      "fields": {
+        "name": "г. Севастополь"
+      }
+    }
+  ]

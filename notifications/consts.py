@@ -1,0 +1,4 @@
+DISTRICT_ID_TO_UTC_OFFSET_MAP = {
+    36: 3,
+    28: 9
+}
