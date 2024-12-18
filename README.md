@@ -12,6 +12,7 @@
 * /api/notifications/notifications/schedule - отправляет уведомление всем поставщикам на следующий день в 10 утра с учетом часового пояса области
 * /api/notifications/notifications/now - отправляет уведомление всем поставщикам сразу в одно и тоже вермя
 
+API Docs: /api/schema/swagger-ui/
 
 ## Запуск
 ```shell
